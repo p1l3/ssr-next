@@ -1,0 +1,13 @@
+.container {
+   margin: 5rem 10rem;
+}
+
+.container > h2 {
+   text-transform: uppercase;
+   margin: 15px 0;
+}
+
+.container li {
+   margin: 10px 0;
+   font-size: large;
+}
